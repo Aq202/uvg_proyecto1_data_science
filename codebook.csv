@@ -9,7 +9,7 @@ Teléfono,Teléfono de contacto del centro educativo,,"Número telefónico, por 
 Supervisor,Nombre de la persona encargada del centro educativo,,Varía según la asignación
 Director,Nombre del director del centro educativo,,Varía según la asignación
 Nivel,Nivel escolar máximo del centro educativo,,"DIVERSIFICADO (en este estudio, todos son nivel diversificado)"
-Sector,Indica si el centro educativo es privado, oficial, cooperativo o municipal,,"PRIVADO, OFICIAL, COOPERATIVO, MUNICIPAL"
+Sector,"Indica si el centro educativo es privado, oficial, cooperativo o municipal",,"PRIVADO, OFICIAL, COOPERATIVO, MUNICIPAL"
 Área,Indica si el centro educativo se encuentra en área urbana o rural,,"URBANA, RURAL"
 Status,Indica el estado actual del centro educativo,,"ABIERTA, TEMPORALMENTE CERRADA, TEMPORAL TITULOS, TEMPORAL NOMBRAMIENTO, TEMPORAL CONTRATO 021"
 Modalidad,Indica la cantidad de lenguas que se imparten en el centro educativo,,"MONOLINGUE, BILINGUE"
