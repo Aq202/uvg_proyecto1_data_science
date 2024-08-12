@@ -1,0 +1,18 @@
+Variable,Descripción,Formato,Posibles valores
+Código,ID del centro educativo,XX-XX-XXXX-XX,16-01-0138-46 (los primeros dos números siempre coinciden con el número de distrito)
+Distrito,ID del distrito en el que se encuentra el centro educativo,XX-XXX,10-001
+Departamento,Nombre del departamento en el que se encuentra el centro educativo,,"Los posibles valores son los departamentos de Guatemala"
+Municipio,Nombre del municipio en el que se encuentra el centro educativo,,"Los posibles valores, dependiendo del departamento, son los municipios de Guatemala"
+Establecimiento,Nombre del centro educativo,,Varía según el nombre oficial del establecimiento
+Dirección,Dirección del centro educativo,,Varía según la ubicación específica
+Teléfono,Teléfono de contacto del centro educativo,,"Número telefónico, por ejemplo 77945104"
+Supervisor,Nombre de la persona encargada del centro educativo,,Varía según la asignación
+Director,Nombre del director del centro educativo,,Varía según la asignación
+Nivel,Nivel escolar máximo del centro educativo,,"DIVERSIFICADO (en este estudio, todos son nivel diversificado)"
+Sector,Indica si el centro educativo es privado, oficial, cooperativo o municipal,,"PRIVADO, OFICIAL, COOPERATIVO, MUNICIPAL"
+Área,Indica si el centro educativo se encuentra en área urbana o rural,,"URBANA, RURAL"
+Status,Indica el estado actual del centro educativo,,"ABIERTA, TEMPORALMENTE CERRADA, TEMPORAL TITULOS, TEMPORAL NOMBRAMIENTO, TEMPORAL CONTRATO 021"
+Modalidad,Indica la cantidad de lenguas que se imparten en el centro educativo,,"MONOLINGUE, BILINGUE"
+Jornada,Indica la modalidad que ofrece el centro educativo,,"MATUTINA, VESPERTINA, DOBLE, SIN JORNADA, NOCTURNA, INTERMEDIA"
+Plan,Indica el plan de estudios del centro educativo,,"DIARIO (REGULAR), FIN DE SEMANA, SEMIPRESENCIAL, A DISTANCIA, SABATINO, etc."
+Departamental,Departamento o Región donde se encuentra el centro educativo,,"GUATEMALA NORTE, SUR, OCCIDENTAL, ORIENTAL"
